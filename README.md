@@ -90,3 +90,7 @@ tests/               # pytest suite
 ```bash
 pytest
 ```
+
+## License
+
+[MIT](LICENSE)
